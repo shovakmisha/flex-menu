@@ -1,7 +1,7 @@
 # flex-menu
 https://codepen.io/msha-showak/pen/vYJXMez
 
-structure must be look this
+structure must be look like this
 ```
 <ul class="menu" id="flex-menu">
   <li class="menu_item">item 1</li>
